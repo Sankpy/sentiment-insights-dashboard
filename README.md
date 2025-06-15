@@ -41,14 +41,7 @@ Edit
 1. **Can companies recommend products based on sentiment scores?**
 2. **Is there a significant correlation between product price and sentiment score?**
 
----
 
-
-  \text{SVI} = \frac{\text{Weighted Sentiment Score}}{\text{Service Cost}}
-  \]
-- Develop a more robust recommendation system based on fine-grained sentiment features.
-
----
 
 ## 🧪 Environment Setup
 
